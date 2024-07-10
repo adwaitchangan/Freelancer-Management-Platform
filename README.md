@@ -1,7 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/OuSBNpwM)
-
-# talenthive.com
-
 ## Description
 * Talent Hive is an online platform connecting freelancers with clients seeking top-notch services. Whether you're a skilled professional looking to offer your expertise or a client in need of quality freelance services, Talent Hive is the place to be.
 
@@ -18,12 +14,6 @@
     * Profile Setup: Complete your profile with relevant information, skills, and experience.
     * Browse Services: Explore the diverse range of services offered by freelancers.
     * Hire or Get Hired: Initiate your freelance journey by either hiring a freelancer or   offering your services.
-
-### Contributors
-* Shrivatsa
-* Sameer
-* Samiksha
-* Adwait
 
 ## Object Model
 ![Example Screenshot](docs/TalentHiveDDD.jpg)
